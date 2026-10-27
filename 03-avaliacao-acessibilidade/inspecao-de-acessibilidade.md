@@ -1,7 +1,8 @@
 # Avaliação de Acessibilidade
 A avaliação de acessibilidade tem como objetivo identificar barreiras que possam dificultar ou impedir o acesso e a utilização do site por pessoas com deficiência ou com diferentes necessidades de navegação. A análise foi realizada com base nas diretrizes WCAG (Web Content Accessibility Guidelines), buscando verificar se o conteúdo e as funcionalidades do site são acessíveis, compreensíveis e utilizáveis.
 ## Escopo da avaliação
-Foram selecionadas páginas do portal do Detran-AM (Departamento Estadual de Trânsito do Amazonas) para inspeção de acessibilidade. A avaliação considerou a página inicial e outras páginas e funcionalidades relevantes do site, incluindo elementos de navegação, formulários, links, textos e componentes de interface. O objetivo foi identificar problemas que pudessem comprometer a experiência dos usuários, especialmente aqueles que utilizam tecnologias assistivas.
+Foram selecionadas as seguintes telas para inspeção: 
+![acessibilidade1](acessibilidade1.jpeg)
 ## Processo utilizado
 O processo de avaliação foi dividido em três etapas: detecção, coleta e discriminação dos problemas encontrados.
 
