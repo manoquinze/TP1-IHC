@@ -1,8 +1,15 @@
+
 # Avaliação de Acessibilidade
 A avaliação de acessibilidade tem como objetivo identificar barreiras que possam dificultar ou impedir o acesso e a utilização do site por pessoas com deficiência ou com diferentes necessidades de navegação. A análise foi realizada com base nas diretrizes WCAG (Web Content Accessibility Guidelines), buscando verificar se o conteúdo e as funcionalidades do site são acessíveis, compreensíveis e utilizáveis.
 ## Escopo da avaliação
 Foram selecionadas as seguintes telas para inspeção: 
-![acessibilidade1](acessibilidade1.jpeg)
+<img width="1123" height="791" alt="acessibilidade1" src="https://github.com/user-attachments/assets/ee764a0e-3ae0-49c6-b70e-66270296b9d4" />
+<img width="1121" height="793" alt="acessibilidade2" src="https://github.com/user-attachments/assets/dae99c0b-db17-4b9f-b1dd-9c2905b92bae" />
+<img width="1123" height="791" alt="acessibilidade3" src="https://github.com/user-attachments/assets/f908ec84-9d35-484f-9962-0d2e5ac9bcff" />
+<img width="1122" height="791" alt="acessibilidade4" src="https://github.com/user-attachments/assets/93e8590b-f245-432c-b944-0242f4dcdce3" />
+<img width="1122" height="793" alt="acessibilidade5" src="https://github.com/user-attachments/assets/cea49f59-499f-4283-a700-105cf086fb20" />
+<img width="1123" height="790" alt="acessibilidade6" src="https://github.com/user-attachments/assets/34545acf-ac27-4460-93d3-0865e5c008d1" />
+
 ## Processo utilizado
 O processo de avaliação foi dividido em três etapas: detecção, coleta e discriminação dos problemas encontrados.
 
